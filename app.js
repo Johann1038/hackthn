@@ -285,8 +285,8 @@ let products = [
 const users = [
     {
         id: 1,
-        email: "admin@shop.com",
-        password: "johann1928",
+        email: "admin@shopmart.com",
+        password: "admin123",
         role: "admin",
         name: "Admin User",
         phone: "+91 9876543210"
